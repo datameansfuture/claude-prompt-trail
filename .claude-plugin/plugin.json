@@ -1,0 +1,17 @@
+{
+  "name": "prompt-trail",
+  "version": "0.2.0",
+  "description": "Floats each prompt you send as a toast and keeps the run of them above the prompt line, condensed to one line and marked for continuation or pivot, so a long session shows its own arc.",
+  "author": {
+    "name": "prompt-trail contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "plugin",
+    "prompt",
+    "history"
+  ],
+  "types": "./types/index.d.ts"
+}
